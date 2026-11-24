@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.cabecalho{
+    background-color: #102A43;
+    height: 80px;
+    width: 1180px;
+    
+}
+.h1zinho{
+    color: rgb(0, 0, 0);
+    font-size: 26px;
+    
+}
+ol{
+    color: aliceblue;
+    flex-direction: 10px;
+    justify-content:center;
+}
