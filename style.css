@@ -36,6 +36,7 @@ ol{
     flex-direction: 10px;
     justify-content:space-between;
     display: flex;
+    align-items:center;
 
 }
 sessaoP{
